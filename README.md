@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @sifullahshakh
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 
+- 👀
+- 🌱 
+- 💞️ 
+- 📫 
+
 
 
 sifullahshakh/sifullahshakh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
